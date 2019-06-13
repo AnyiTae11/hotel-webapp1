@@ -1,0 +1,332 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"v",
+				"Vision"
+			],
+			[
+				"anima",
+				"animation-timing-function\tproperty"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"li",
+				"list-style\tproperty"
+			],
+			[
+				"mi",
+				"minimun-scale"
+			],
+			[
+				"ma",
+				"maximun-scale"
+			],
+			[
+				"de",
+				"device-width"
+			],
+			[
+				"b",
+				"b"
+			],
+			[
+				"bu",
+				"button\tTag"
+			],
+			[
+				"hre",
+				"href\tAttr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 90.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp22/htdocs/1er/archivos de Hotel/mision.php",
+		"/C/xampp22/htdocs/1er/archivos de Hotel/valores.php",
+		"/C/xampp22/htdocs/1er/archivos de Hotel/estiloVISION22.css",
+		"/C/xampp22/htdocs/1er/archivos de Hotel/Vision.php",
+		"/C/Users/3476005567/Desktop/menu-simple/index.html",
+		"/C/Users/3476005567/Desktop/__MACOSX/499EzEpPnXI/._readme.md",
+		"/C/Users/3476005567/Desktop/menu-simple/estilos.css",
+		"/C/xampp22/htdocs/1erO/cajero.php",
+		"/C/xampp22/htdocs/1er/archivos de Hotel/css/estilosMENU.css",
+		"/C/xampp22/htdocs/1er/archivos de Hotel/MENU.html",
+		"/C/xampp22/htdocs/1erO/factorialThis.php",
+		"/C/Users/3476005567/Downloads/menu-simple.rar",
+		"/F/1erO/formulaXYZ2.php",
+		"/C/xampp22/htdocs/1er/FactorialdeunNumero.php",
+		"/C/xampp22/htdocs/1er/Fact.php",
+		"/C/xampp22/htdocs/1er/archivos de Hotel/HOTEL.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/QQQ.HTML",
+		"/C/xampp22/htdocs/1er/archivos de Hotel/js/jquery.js",
+		"/F/1er/TTTTTTTTTTTTTTT.php",
+		"/F/1er/aaaaa.txt",
+		"/F/primera pagina.php.txt",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/EstiloTabla22.css",
+		"/F/HIDROGENO.HTML",
+		"/F/SUMATORIA.php",
+		"/D/TABLA.P.SUB/TABLAPERIODICAYY.php",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/ROENTGENIO.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/UNUNQUADIO.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/UNUNPENTIO.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/UNUNOCTIO.HTML",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/UNUNSEPTIO.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/UNUNHEXIO.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/EstiloTabla.css",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/UNUNBIO.HTML",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/UNUNTRIO.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/DUBNIO.HTML",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/HASSIO.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/MEITNERIO.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/DARMSTADTIO.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/BOHRIO.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/SEABORGIO .html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/RADIO.HTML",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/RUTHERFORDIO.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/FRANCIO.HTML",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/TÁNTALO.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/RADÓN.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/BISMUTO.HTML",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/POLONIO.HTML",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/ASTATO.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/MERCURIO.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/PLOMO.HTML",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/TALIO.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/ORO.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/OSMIO.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/IRIDIO.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/PLATINO.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/WOLFRAMIO.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/RENIO.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/HAFNIO.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/BARIO.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/YODO.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/CESIO.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/XENÓN.HTML",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/ANTIMONIO.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/TELURO.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/ESTAÑO.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/INDIO.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/CADMIO.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/PALADIO.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/CIRCONIO.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/PLATA.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/RUTENIO.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/ESTRONCIO.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/RODIO.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/TECNECIO.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/MOLIBDENO.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/NIOBIO.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/RUBIDIO.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/BROMO.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/Itrio.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/KRIPTÓN.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/SELENIO.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/ARSÉNICO.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/GERMANIO.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/GALIO.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/ZINC.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/COBRE..html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/NÍQUEL.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/COBALTO.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/HIDROGENO.HTML",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/CROMO.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/MANGANESO.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/HIERRO.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/VANADIO.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/TITANIO.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/AZUFRE.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/CALCIO.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/POTASIO.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/CLORO.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/ARGON.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/FOSFORO.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/BORO.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/SILICIO.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/MAGNESIO.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/ALUMINIO.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/FLUOR.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/NEON.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/OXIGENO.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/CARBONO.html",
+		"/F/1erO/eliminar.php",
+		"/C/xampp22/htdocs/1er/CALIFICACIONES/111.php",
+		"/C/xampp22/htdocs/1er/CALIFICACIONES/ElLIMINARRR.php",
+		"/C/xampp22/htdocs/1er/CALIFICACIONES/consulta.php",
+		"/C/xampp22/htdocs/1er/CALIFICACIONES/EqI.php",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/NITROGENO.HTML",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/SODIO.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/NITRPGENO.HTML",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/BERILIO.html",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/LITIO.HTML",
+		"/F/Tony/consulta.php",
+		"/C/xampp22/htdocs/1er/TABLA.P.SUB/HELIO.html",
+		"/F/1erO/consulta.php",
+		"/F/1erO/calificaciones.php",
+		"/C/xampp22/htdocs/1er/AAa/MetaBU.php",
+		"/D/Escuela/FEDE1/octubre/proyecto/tabla update/tablaelementos.html",
+		"/C/xampp22/htdocs/1er/TablaPeriodica.php",
+		"/C/xampp22/htdocs/1er/AAa/001.php",
+		"/C/xampp22/htdocs/1er/tabladel10.php",
+		"/F/Nueva carpeta/EXA111.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 133.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Vision.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
